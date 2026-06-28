@@ -1,0 +1,1 @@
+Playwright related informationPlaywright supports API testing. While primarily known for its Ul automation capabilities, Playwright provides a powerful and convenient APIRequestContext object that allows direct interaction with REST APIs.
